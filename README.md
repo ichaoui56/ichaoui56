@@ -101,6 +101,7 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/ichaoui56/ichaoui56/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/ichaoui56/ichaoui56/master/snake.svg" alt="Snake animation" />
+
 
 ###
