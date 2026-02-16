@@ -14,7 +14,7 @@
 <p align="left">I'm a passionate Full Stack Developer and freelancer, currently running my own agency <strong>Web Vision Agency</strong>. I thrive in collaborative environments and love building tailored solutions that make a difference.</p>
 
 - ✨ Student of life & code :)
-- 🌱 I’m currently learning **Advanced React & Spring Boot**
+- 🌱 I’m currently learning **Advanced Next & Spring Boot**
 - 💼 Founder @ **Web Vision Agency**
 - 🎓 Alumni @ YouCode Safi | UMG6 (2023-2025)
 - ⚡ Fun fact: **I transitioned from Dental Medicine to Web Development!**
@@ -39,17 +39,11 @@
 
 <h3 align="left">Current Learning</h3>
 <ul align="left">
-  <li>Deepening my knowledge in Machine Learning and AI.</li>
-  <li>Exploring advanced React.js patterns and state management techniques.</li>
-  <li>Improving my skills in cloud computing with AWS and Azure.</li>
+   <li>Deepening my knowledge in Advanced Next.js patterns</li>
+  <li>Exploring Spring Boot for robust backend development</li>
+  <li>Improving my skills in cloud deployment and DevOps</li>
 </ul>
   
-<h3 align="left">Latest Blog Posts</h3>
-<ul align="left">
-  <li><a href="#">🔥 Your Latest Blog 1</a></li>
-  <li><a href="#">🔥 Your Latest Blog 2</a></li>
-  <li><a href="#">Your Latest Blog 3</a></li>
-</ul>
 <br />
 <br />
 <br />
