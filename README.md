@@ -107,7 +107,7 @@ Note: You'll need to create your own banner image or remove this section-->
       <h3 align="center"><strong>Gɪᴛʜᴜʙ Sᴛᴀᴛs</strong></h3>
       <p align="center">
         <a href="https://github.com/ichaoui56">
-          <img align="center" src="https://github-readme-stats.vercel.app/api?username=ichaoui56&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
+          <img align="center" src="https://github-readme-stats-xi-seven-23.vercel.app/api?username=ichaoui56&count_private=true&show_icons=true&theme=nightowl&bg_color=0,000000,441350&title_color=c56a90&text_color=ffffff&rank_icon=github&hide=prs,issues,contribs&show=reviews,prs_merged,prs_merged_percentage" alt="GitHub Stats" />
         </a>
       </p>
     </td>
@@ -115,25 +115,25 @@ Note: You'll need to create your own banner image or remove this section-->
       <h3 align="center"><strong>Sᴛʀᴇᴀᴋ Sᴛᴀᴛs</strong></h3>
       <p align="center">
         <a href="https://github.com/ichaoui56">
-          <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ichaoui56&theme=radical&hide_border=true" alt="Streak Stats" />
+          <img align="center" src="https://github-readme-streak-stats-mu-flame.vercel.app/?user=ichaoui56&theme=nightowl&background=0,000000,441350&fire=ffeb95&ring=ffeb95&sideNums=ffffff&sideLabels=ffffff&dates=c56a90&currStreakNum=ffffff" alt="Streak Stats" />
         </a>
       </p>
     </td>
   </tr>
   <tr>
     <td width="50%">
-      <h3 align="center"><strong>Lᴀɴɢᴜᴀɢᴇs</strong></h3>
+      <h3 align="center"><strong>Lᴀᴛᴇsᴛ Pʀᴏᴊᴇᴄᴛ</strong></h3>
       <p align="center">
-        <a href="https://github.com/ichaoui56">
-          <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ichaoui56&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+        <a href="https://github.com/ichaoui56/storyblok-mcp-server">
+          <img align="center" width="470" src="https://github-readme-stats-xi-seven-23.vercel.app/api/pin/?username=ichaoui56&repo=storyblok-mcp-server&theme=nightowl&show_owner=true&bg_color=0,000000,441350&title_color=c56a90&text_color=ffffff" alt="Awesome-Dev-Portfolios" />
         </a>
       </p>
     </td>
     <td width="50%">
-      <h3 align="center"><strong>Cᴏɴᴛʀɪʙᴜᴛɪᴏɴs</strong></h3>
+      <h3 align="center"><strong>Tᴏᴘ Cᴏɴᴛʀɪʙᴜᴛɪᴏɴs</strong></h3>
       <p align="center">
         <a href="https://github.com/ichaoui56">
-          <img align="center" src="https://github-contributor-stats.vercel.app/api?username=ichaoui56&limit=3&theme=radical&hide_border=true&combine_all_yearly_contributions=true" alt="Contributions" />
+          <img align="center" src="https://github-contributor-stats.vercel.app/api?username=ichaoui56&limit=2&theme=nightowl&show_owner=true&combine_all_yearly_contributions=false&bg_color=0,000000,441350&title_color=c56a90&text_color=ffffff" alt="Top Repo" />
         </a>
       </p>
     </td>
