@@ -1,6 +1,5 @@
-<!--Banner 
-![Ilyas Chaoui Banner Image](./banner.png) 
-Note: You'll need to create your own banner image or remove this section-->
+<!--Banner-->
+![ichaoui56 Banner Image](./banner.png)
 
 <!--Night Owl image-->
 <div>
@@ -8,206 +7,109 @@ Note: You'll need to create your own banner image or remove this section-->
 </div>
 
 <!--Header Name-->
-# <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> ɪ'ʟʏᴀs ᴄʜᴀᴏᴜɪ 
-*Full Stack Developer | From Dental Medicine to Code*
+# <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> ɪ'ᴍ ɪʟʏᴀs ᴄʜᴀᴏᴜɪ!
+*Digital Craftsman (Developer / Programmer)*
 <br /> 
 
 <!--Start Intro-->               
-<p align="left">I'm a passionate Full Stack Developer and freelancer, currently running my own agency <strong>Web Vision Agency</strong>. I thrive in collaborative environments and love building tailored solutions that make a difference.</p>
+<p align="left">I am a Full Stack Developer and Machine Learning Enthusiast with a huge love for Python, React.js, Node.js, Django, RDBMS, REST API and Data Visualization. </p>
 
-- ✨ Student of life & code :)
-- 🌱 I’m currently learning **Advanced NextJs & Spring Boot**
-- 💼 Founder @ **Web Vision Agency** 
-- 🎓 Alumni @ YouCode Safi | UMG6 (2023-2025)
-- ⚡ Fun fact: **I transitioned from Dental Medicine to Web Development!**
-- 💻 Check my [Portfolio](https://i-chaoui.vercel.app) for more details
-- 📫 How to reach me: **ilyaschaoui73@gmail.com**
+- ✨ Student of life :)
+- 🌱 I’m currently learning many things, I believe that everyday is a learning opportunity.
+- 💁‍♂️ Trusted member and Moderator at [DEV Community](https://dev.to)
+- 🏙 A lifetime insider and Mentor at [Exercism](https://exercism.org/profiles/Kiran1689).
+- ✍ I write technical blogs, You can visit my blog site at [DEV](https://dev.to/dev_kiran).
+- ❤ Contributing to Open Source.
+- 💻 Visit my [Portfolio](https://ichaoui56.github.io) for more details about me.
 <!--End Intro-->
 
 <!--Profile Count Badge-->
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=ichaoui56&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="ichaoui56" style="padding-right:20px;" />
+  <img src="https://komarev.com/ghpvc/?username=ichaoui56&label=Profile%20views&color=770677&style=for-the-badge&logo=star" alt="ichaoui56" style="padding-right:20px;" />
 </p>
 
 ---
 
 <!--Languages and Tools Section-->       
-<h2 align="center">💻 Tᴇᴄʜ sᴛᴀᴄᴋ & ᴛᴏᴏʟs 💻</h2> 
-
-<h3 align="left">Frontend Development</h3>
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="40" alt="angularjs logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="40" alt="sass logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/less/less-plain-wordmark.svg" height="40" alt="less logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="40" alt="tailwindcss logo" />
-</div>
-
-<h3 align="left">Backend Development</h3>
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" height="40" alt="laravel logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" alt="spring logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo" />
-</div>
-
-<h3 align="left">Tools & Technologies</h3>
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" height="40" alt="git logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo" />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/jira/0052CC" height="40" alt="jira logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" height="40" alt="trello logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="40" alt="canva logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo" />
-</div>
-
+<h2 align="center">Tᴇᴄʜ sᴛᴀᴄᴋ & Lᴀᴛᴇsᴛ ʙʟᴏɢs</h2> 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./Skills_Animation_Dark.gif">
+  <source media="(prefers-color-scheme: light)" srcset="./Skills_Animation_White.gif">
+  <img align="left" alt="GIF description" src="./Skills_Animation_White.gif">
+</picture>
 <br />
 
-<h3 align="left">📌 Current Learning</h3>
+<h3 align="left">Current Learning</h3>
 <ul align="left">
-  <li>Deepening my knowledge in Advanced React patterns</li>
-  <li>Exploring Spring Boot for robust backend development</li>
-  <li>Improving my skills in cloud deployment and DevOps</li>
+  <li>Deepening my knowledge in Machine Learning and AI.</li>
+  <li>Exploring advanced React.js patterns and state management techniques.</li>
+  <li>Improving my skills in cloud computing with AWS and Azure.</li>
 </ul>
-
+  
+<h3 align="left">Latest Blog Posts</h3>
+<ul align="left">
+  <li><a href="#">🔥 Your Latest Blog 1</a></li>
+  <li><a href="#">🔥 Your Latest Blog 2</a></li>
+  <li><a href="#">Your Latest Blog 3</a></li>
+</ul>
+<br />
+<br />
+<br />
 <br />
 
+<!--Github stats Table--> 
+<h2 align="center">📊 Gɪᴛʜᴜʙ Sᴛᴀᴛs 📊</h2>
 
+<table width="100%">
+  <tr>
+    <td width="50%">
+      <h3 align="center"><strong>Gɪᴛʜᴜʙ Sᴛᴀᴛs</strong></h3>
+      <p align="center">
+        <a href="https://github.com/ichaoui56">
+          <img align="center" src="https://github-readme-stats-xi-seven-23.vercel.app/api?username=ichaoui56&count_private=true&show_icons=true&theme=nightowl&bg_color=0,000000,441350&title_color=c56a90&text_color=ffffff&rank_icon=github&hide=prs,issues,contribs&show=reviews,prs_merged,prs_merged_percentage" alt="GitHub Stats" />
+        </a>
+      </p>
+    </td>
+    <td width="50%">
+      <h3 align="center"><strong>Sᴛʀᴇᴀᴋ Sᴛᴀᴛs</strong></h3>
+      <p align="center">
+        <a href="https://github.com/ichaoui56">
+          <img align="center" src="https://github-readme-streak-stats-mu-flame.vercel.app/?user=ichaoui56&theme=nightowl&background=0,000000,441350&fire=ffeb95&ring=ffeb95&sideNums=ffffff&sideLabels=ffffff&dates=c56a90&currStreakNum=ffffff" alt="Streak Stats" />
+        </a>
+      </p>
+    </td>
+  </tr>
+</table>
 
+<br />
 
 <!--Contribution Graph-->
 <h2 align="center">📈 Cᴏɴᴛʀɪʙᴜᴛɪᴏɴ Gʀᴀᴘʜ 📈</h2>
 <div align="center">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=ichaoui56&bg_color=0d1117&color=5bcdec&line=5bcdec&point=ffffff&area=true&hide_border=true" border-radius="15">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=ichaoui56&bg_color=220a28&&color=ffffff&line=c56a90&point=ffeb95&area=false&hide_border=false" border-radius="15">
 </div>
 
 ---
 
-
-<!--Dynamic Quote card updates everyday at 12 PM--> 
-<h2 align="center">🌟 Tʜᴏᴜɢʜᴛ ᴏғ ᴛʜᴇ Dᴀʏ 🌟</h2>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-<!--STARTS_HERE_QUOTE_CARD-->
-<p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Helen%20Keller&quote=Keep%20your%20face%20to%20the%20sunshine%20and%20you%20cannot%20see%20the%20shadows.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
-</p>
-<!--ENDS_HERE_QUOTE_CARD-->
-
 <!--Contact Section--> 
-<h2 align="center">🤝 Cᴏɴɴᴇᴄᴛ Wɪᴛʜ Mᴇ 🤝</h2>
+
+<h2 align="center">🤝 Cᴏɴɴᴇᴄᴛ Wɪᴛʜ Mᴇ 🤝 </h2>
 <div align="center">
-
-<a href="mailto:ilyaschaoui73@gmail.com" target="_blank">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="email" style="margin-bottom: 5px;" />
+  
+<a href="mailto:your-email@gmail.com" target="_blank">
+<img src="./gmail.png" width=50 height=50 alt="email" style="margin-bottom: 5px;" />
 </a>
 
-<a href="https://www.linkedin.com/in/ilyas-chaoui-382234156/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" style="margin-bottom: 5px;" />
+<a href="https://github.com/ichaoui56" target="_blank">
+<img src="./github.png" width=50 height=50 alt="ichaoui56" style="margin-bottom: 5px;" />
 </a>
 
-<a href="https://twitter.com/ichaoui56" target="_blank">
-  <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="twitter" style="margin-bottom: 5px;" />
-</a>
-
-<a href="https://www.instagram.com/_ilyaasss__/?next=%2F" target="_blank">
-  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="instagram" style="margin-bottom: 5px;" />
-</a>
-
-<a href="https://i-chaoui.vercel.app" target="_blank">
-  <img src="https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white" alt="portfolio" style="margin-bottom: 5px;" />
+<a href="https://www.linkedin.com/in/your-linkedin/" target="_blank">
+<img src="./linkedin.png" width=50 height=50 alt="linkedin" style="margin-bottom: 5px;" />
 </a>
 
 </div>
 <br/>
-
-<!--Location & Contact-->
-<div align="center">
-  <p>
-    <strong>📍 Casablanca, Morocco</strong><br/>
-    <strong>📞 +212 602393795</strong>
-  </p>
-</div>
-
-<!--Buy me a coffee 
-<div align="center">
-<a href="https://www.buymeacoffee.com/ichaoui56" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 40px !important;width: 200px !important;" ></a>
-</div>
--->
 
 <!--Footer--> 
 <p align="center">
