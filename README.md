@@ -8,20 +8,18 @@
 
 <!--Header Name-->
 # <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> ɪ'ᴍ ɪʟʏᴀs ᴄʜᴀᴏᴜɪ!
-*Digital Craftsman (Developer / Programmer)*
+*Full Stack Developer | From Dental Medicine to Code*
 <br /> 
 
-<!--Start Intro-->               
-<p align="left">I am a Full Stack Developer and Machine Learning Enthusiast with a huge love for Python, React.js, Node.js, Django, RDBMS, REST API and Data Visualization. </p>
+<p align="left">I'm a passionate Full Stack Developer and freelancer, currently running my own agency <strong>Web Vision Agency</strong>. I thrive in collaborative environments and love building tailored solutions that make a difference.</p>
 
-- ✨ Student of life :)
-- 🌱 I’m currently learning many things, I believe that everyday is a learning opportunity.
-- 💁‍♂️ Trusted member and Moderator at [DEV Community](https://dev.to)
-- 🏙 A lifetime insider and Mentor at [Exercism](https://exercism.org/profiles/Kiran1689).
-- ✍ I write technical blogs, You can visit my blog site at [DEV](https://dev.to/dev_kiran).
-- ❤ Contributing to Open Source.
-- 💻 Visit my [Portfolio](https://ichaoui56.github.io) for more details about me.
-<!--End Intro-->
+- ✨ Student of life & code :)
+- 🌱 I’m currently learning **Advanced React & Spring Boot**
+- 💼 Founder @ **Web Vision Agency** | Previous: Front-end Intern @ Moroccan National Olympic Committee
+- 🎓 Alumni @ YouCode Safi | UMG6 (2023-2025)
+- ⚡ Fun fact: **I transitioned from Dental Medicine to Web Development!**
+- 💻 Check my [Portfolio](https://i-chaoui.vercel.app) for more details
+- 📫 How to reach me: **ilyaschaoui73@gmail.com**
 
 <!--Profile Count Badge-->
 <p align="left">
