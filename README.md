@@ -15,7 +15,7 @@
 
 - ✨ Student of life & code :)
 - 🌱 I’m currently learning **Advanced React & Spring Boot**
-- 💼 Founder @ **Web Vision Agency** | Previous: Front-end Intern @ Moroccan National Olympic Committee
+- 💼 Founder @ **Web Vision Agency**
 - 🎓 Alumni @ YouCode Safi | UMG6 (2023-2025)
 - ⚡ Fun fact: **I transitioned from Dental Medicine to Web Development!**
 - 💻 Check my [Portfolio](https://i-chaoui.vercel.app) for more details
